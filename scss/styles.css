@@ -130,6 +130,7 @@ ul {
   margin: 0 auto;
 }
 #footer .footer-content {
+  height: 4rem;
   display: flex;
   gap: 350px;
 }
